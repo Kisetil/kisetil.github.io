@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Simple post "
+categories: misc
+---
+
+# Test Post
+Hi, this is a simple post to test things...
